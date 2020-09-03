@@ -1,0 +1,17 @@
+{
+  "name": "ecmascript-tutorial",
+  "version": "1.0.0",
+  "description": "learn ecmascript ",
+  "main": "1_let_const.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "js",
+    "ecmascript"
+  ],
+  "author": "Vadim Guzaerov <vadim.guzaerov@gmail.com>",
+  "license": "ISC"
+}
